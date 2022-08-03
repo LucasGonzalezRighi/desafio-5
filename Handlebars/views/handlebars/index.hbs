@@ -1,0 +1,31 @@
+<h1 class="text-dark">Tu lista de productos es:</h1>
+<a class="btn btn-success mb-5" href="../" role="button">Volver al formulario</a>
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <table class="table table-image table-transparent">
+        <thead>
+          <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Price</th>
+            <th scope="col">Picture</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{#each products}}
+            <tr>
+              <th scope="row">{{this.title}}</th>
+              <td>${{this.price}}</td>
+              <td class="w-25"><img
+                  class="img-fluid img-thumbnail"
+                  src={{this.thumbnail}}
+                  alt={{this.title}}
+                /></td>
+            </tr>
+          {{/each}}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

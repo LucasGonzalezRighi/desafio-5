@@ -1,0 +1,31 @@
+[{
+        "title": "Mouse",
+        "price": 6.999,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_903817-MLA47947792514_102021-F.webp",
+        "id": 1
+    },
+    {
+        "title": "Teclado",
+        "price": 117.99,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_903817-MLA47947792514_102021-F.webp",
+        "id": 2
+    },
+    {
+        "title": "Auriculares",
+        "price": 34.653,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_755743-MLA41523503764_042020-F.webp",
+        "id": 3
+    },
+    {
+        "title": "Monitores",
+        "price": 300.97,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_859975-MLA48689271995_122021-F.webp",
+        "id": 4
+    },
+    {
+        "title": "Monitores",
+        "price": 300.97,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_859975-MLA48689271995_122021-F.webp",
+        "id": 5
+    }
+]

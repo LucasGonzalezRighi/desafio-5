@@ -1,0 +1,19 @@
+{
+    "name": "fifth-exercise-hbs",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "start": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.1",
+      "express-handlebars": "^6.0.6"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.19"
+    },
+    "description": ""
+  }
